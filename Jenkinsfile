@@ -1,5 +1,5 @@
 // Jenkinfile comment
 
-pipelien {
+pipeliens {
     // some groovy code 
 }
